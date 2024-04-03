@@ -23,6 +23,16 @@
             text-decoration : underline;
             text-decoration-color : red;
         }
+        div#login_from{
+            text-align: center;
+            height: auto;
+            width: 500px;
+        }
+        div#login_from input{
+            display: block;
+            width: 300px;
+            
+        }
         p{
             font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
         }
